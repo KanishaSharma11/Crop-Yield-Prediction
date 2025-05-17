@@ -29,8 +29,11 @@ Fertilizer and pesticide usage
 The primary goal of this project is to build a predictive model that enables:
 
 ✅ Farmers to make informed crop and resource planning decisions
+
 ✅ Governments and agencies to forecast food production and manage resources effectively
+
 ✅ Researchers and agronomists to analyze yield trends based on climatic and agronomic inputs
+
 
 # **🧠 Techniques & Tools**
 This project leverages a range of machine learning algorithms, including:
