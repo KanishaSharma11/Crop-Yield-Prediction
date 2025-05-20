@@ -46,5 +46,7 @@ XGBoost Regressor (gives better result than other algorithms)
 
 LightGBM Regressor
 
+
+## **💻 Demo**
 ![App Screenshot](r'D:\Projects\Crop Prediction\Crop Yield Prediction\crop_yield_app\Screenshot 2025-05-20 171411.png')
 ![App Screenshot](r'D:\Projects\Crop Prediction\Crop Yield Prediction\crop_yield_app\Screenshot 2025-05-20 171419.png')
