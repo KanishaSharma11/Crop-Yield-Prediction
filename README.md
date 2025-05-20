@@ -42,6 +42,6 @@ SVR
 
 Random Forest Regressor
 
-XGBoost Regressor
+XGBoost Regressor (gives better result than other algorithms)
 
 LightGBM Regressor
