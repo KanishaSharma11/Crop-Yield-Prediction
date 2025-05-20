@@ -48,5 +48,5 @@ LightGBM Regressor
 
 
 ## **💻 Demo**
-![App Screenshot](r'D:\Projects\Crop Prediction\Crop Yield Prediction\crop_yield_app\Screenshot 2025-05-20 171411.png')
-![App Screenshot](r'D:\Projects\Crop Prediction\Crop Yield Prediction\crop_yield_app\Screenshot 2025-05-20 171419.png')
+![App Screenshot](images/image1.png)
+![App Screenshot](images/image2.png)
